@@ -1,0 +1,42 @@
+.h{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#atoyc{
+    font-size: 15px;
+    color: black;
+}
+body{
+    background-size: cover;
+}
+#speed{
+    float: left;
+}
+#disk1{
+    width: 200px;
+    border-radius: 100px;
+}
+#text1{
+    font-size: 23px;
+    margin: 15px;
+}
+#volume{
+    float: right;
+}
+#disk2{
+    width: 200px;
+    border-radius: 100px;
+}
+#text2{
+    font-size: 23px;
+    margin: 15px;
+}
+.i{
+    width: 130px;
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
